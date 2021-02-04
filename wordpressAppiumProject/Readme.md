@@ -1,5 +1,3 @@
-# testAutomation_mobile
-
 **Prerequisites**
 
 - Python3
