@@ -50,5 +50,7 @@ _pytest tests/test\_01blogstats.py_
 1. To run any specific test cases based on markers
 
 _pytest -m &quot;regression&quot; –html=reports/report.html tests_
+
 _pytest -m &quot;sanity&quot; –html=reports/report.html tests_
+
 _pytest -m &quot;smoke&quot; –html=reports/report.html tests_
